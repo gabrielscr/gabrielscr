@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 410 330" width="410" height="330" role="img" aria-labelledby="t d">
+<title id="t">code-agents, coleção</title>
+<desc id="d">code-agents: Coleção de agentes de IA especializados para frontend, mobile e backend. código aberto. Stack: Markdown · IA · MIT.</desc>
+<defs><radialGradient id="cdA" cx="18%" cy="0%" r="95%"><stop offset="0" stop-color="#2563EB" stop-opacity="0.28"/><stop offset="0.55" stop-color="#0B1226" stop-opacity="0"/></radialGradient>
+<radialGradient id="cdB" cx="100%" cy="100%" r="80%"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.16"/><stop offset="1" stop-color="#070B16" stop-opacity="0"/></radialGradient>
+<linearGradient id="cdL" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1226"/><stop offset="1" stop-color="#070B16"/></linearGradient>
+<pattern id="cdG" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1F2D55" stroke-opacity="0.4" stroke-width="1"/></pattern>
+<clipPath id="ct"><path d="M6 18 a14 14 0 0 1 14 -14 H390 a14 14 0 0 1 14 14 V190 H6 Z"/></clipPath>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0.55" stop-color="#0D1530" stop-opacity="0"/><stop offset="1" stop-color="#0D1530" stop-opacity="0.95"/></linearGradient>
+<linearGradient id="pn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#121C3E"/><stop offset="1" stop-color="#0D1530"/></linearGradient>
+<linearGradient id="artG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563EB" stop-opacity="0.25"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0.05"/></linearGradient>
+<pattern id="artGrid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="#1F2D55" stroke-opacity="0.6"/></pattern>
+<radialGradient id="coreA" cx="50%" cy="30%" r="80%"><stop offset="0" stop-color="#17306B"/><stop offset="1" stop-color="#0B1534"/></radialGradient>
+<linearGradient id="cta" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<style>
+text{font-family:ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}
+.m{font-family:ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<rect x="6" y="4" width="398" height="322" rx="14" fill="url(#pn)"/>
+<g clip-path="url(#ct)"><rect x="6" y="4" width="398" height="186" fill="#0A1128"/>
+<rect x="6" y="4" width="398" height="186" fill="url(#artG)"/>
+<rect x="6" y="4" width="398" height="186" fill="url(#artGrid)" opacity="0.5"/>
+<rect x="6" y="4" width="34" height="186" fill="#1F2D55" opacity="0.25"/><text class="m" x="18" y="68" font-size="11" fill="#5B6C93"> 1</text><text class="m" x="50" y="68" font-size="13" xml:space="preserve"><tspan fill="#5B6C93"></tspan><tspan fill="#22D3EE" font-weight="700">frontend-ai-agents/</tspan></text><text class="m" x="18" y="88" font-size="11" fill="#5B6C93"> 2</text><text class="m" x="50" y="88" font-size="13" xml:space="preserve"><tspan fill="#5B6C93"></tspan><tspan fill="#22D3EE" font-weight="700">mobile-ai-agents/</tspan></text><text class="m" x="18" y="108" font-size="11" fill="#5B6C93"> 3</text><text class="m" x="68" y="108" font-size="13" xml:space="preserve"><tspan fill="#5B6C93"></tspan><tspan fill="#22D3EE" font-weight="700">flutter/</tspan></text><text class="m" x="18" y="128" font-size="11" fill="#5B6C93"> 4</text><text class="m" x="68" y="128" font-size="13" xml:space="preserve"><tspan fill="#5B6C93"></tspan><tspan fill="#22D3EE" font-weight="700">ios/</tspan></text><text class="m" x="18" y="148" font-size="11" fill="#5B6C93"> 5</text><text class="m" x="68" y="148" font-size="13" xml:space="preserve"><tspan fill="#5B6C93"></tspan><tspan fill="#22D3EE" font-weight="700">android/</tspan></text><text class="m" x="18" y="168" font-size="11" fill="#5B6C93"> 6</text><text class="m" x="50" y="168" font-size="13" xml:space="preserve"><tspan fill="#5B6C93"></tspan><tspan fill="#22D3EE" font-weight="700">backend-ai-agents/</tspan></text><rect x="6" y="4" width="398" height="186" fill="url(#fade)"/></g>
+<rect x="6.75" y="4.75" width="396.5" height="320.5" rx="13.5" fill="none" stroke="#1F2D55" stroke-width="1.5"/>
+<rect x="6" y="189" width="398" height="1.2" fill="#1F2D55" opacity="0.9"/>
+<!-- chips sobre a miniatura -->
+<g>
+<rect x="18" y="16" width="76.6" height="24" rx="12" fill="#050A18" fill-opacity="0.78" stroke="#FFFFFF" stroke-opacity="0.14"/>
+<text class="m" x="56.285" y="32.2" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="0.8" fill="#C9D6F2">COLEÇÃO</text>
+<rect x="252.4" y="16" width="139.6" height="24" rx="12" fill="#050A18" fill-opacity="0.78" stroke="#22D3EE" stroke-opacity="0.55"/>
+<circle class="led" cx="267.4" cy="28" r="4.5" fill="#22D3EE"/>
+<text class="m" x="278.4" y="32.2" font-size="11" font-weight="700" letter-spacing="0.8" fill="#EAF1FF">CÓDIGO ABERTO</text>
+</g>
+<text x="24" y="224" font-size="22" font-weight="800" letter-spacing="-0.3" fill="#E6ECF7">code-agents</text>
+<text x="24" y="248" font-size="14.5" fill="#93A3C6">Coleção de agentes de IA especializados para</text><text x="24" y="267" font-size="14.5" fill="#93A3C6">frontend, mobile e backend.</text>
+<line x1="24" y1="290" x2="386" y2="290" stroke="#1F2D55" stroke-opacity="0.8"/>
+<text class="m" x="24" y="313" font-size="12.5" fill="#5B6C93">Markdown · IA · MIT</text>
+<text class="m" x="386" y="313" text-anchor="end" font-size="12.5" font-weight="700" fill="#22D3EE">ver código ↗</text>
+<text class="m" x="280.5" y="313" text-anchor="end" font-size="12" fill="#FBBF24">★ 26</text>
+</svg>

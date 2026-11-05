@@ -1,0 +1,815 @@
+{
+  "sections": [
+    {
+      "id": "jogos",
+      "title": "Jogos",
+      "kicker": "01"
+    },
+    {
+      "id": "saas",
+      "title": "Produtos SaaS",
+      "kicker": "02"
+    },
+    {
+      "id": "apps",
+      "title": "Apps",
+      "kicker": "03"
+    },
+    {
+      "id": "ia",
+      "title": "IA e plataforma",
+      "kicker": "04"
+    },
+    {
+      "id": "clientes",
+      "title": "Sites de clientes",
+      "kicker": "05"
+    },
+    {
+      "id": "oss",
+      "title": "Open source",
+      "kicker": "06"
+    }
+  ],
+  "statusLabels": {
+    "live": "NO AR",
+    "store": "NAS LOJAS",
+    "prelaunch": "PRÉ-LANÇAMENTO",
+    "development": "EM DESENVOLVIMENTO",
+    "offline": "FORA DO AR",
+    "delivered": "ENTREGUE",
+    "internal": "PLATAFORMA",
+    "oss": "CÓDIGO ABERTO"
+  },
+  "projects": [
+    {
+      "id": "cilada",
+      "section": "jogos",
+      "name": "Cilada!",
+      "kind": "JOGO 2D",
+      "tagline": "Plataformer 2D de trolladas: fases curtas, controle preciso e armadilhas na sua cara.",
+      "stack": [
+        "Godot",
+        "GDScript"
+      ],
+      "status": "store",
+      "url": "https://play.google.com/store/apps/details?id=com.gabrielrocha.cilada",
+      "check": true,
+      "thumb": "cilada",
+      "hero": {
+        "short": "Cilada!",
+        "orbit": 2
+      },
+      "fullStack": [
+        "Godot"
+      ]
+    },
+    {
+      "id": "cilada-3d",
+      "section": "jogos",
+      "name": "Cilada 3D",
+      "kind": "JOGO 3D",
+      "tagline": "Plataformer 3D em que a cilada mente sobre o cenário, nunca sobre o controle.",
+      "stack": [
+        "Godot",
+        "GDScript"
+      ],
+      "status": "store",
+      "url": "https://cilada-3d.web.app/",
+      "check": true,
+      "thumb": "cilada-3d",
+      "hero": {
+        "short": "Cilada 3D",
+        "orbit": 2
+      },
+      "fullStack": [
+        "Godot"
+      ]
+    },
+    {
+      "id": "panteao",
+      "section": "jogos",
+      "name": "Panteão: Batalha de Cards",
+      "kind": "JOGO DE CARTAS",
+      "tagline": "Duelos de cartas entre mitos: estátuas que despertam e partidas em equipe.",
+      "stack": [
+        "Unity 6",
+        "C#",
+        "SignalR"
+      ],
+      "status": "store",
+      "url": "https://play.google.com/store/apps/details?id=com.grochatech.panteao",
+      "check": true,
+      "thumb": "panteao",
+      "hero": {
+        "short": "Panteão",
+        "orbit": 2
+      },
+      "fullStack": [
+        "Unity",
+        ".NET / C#",
+        "SignalR"
+      ]
+    },
+    {
+      "id": "runavald",
+      "section": "jogos",
+      "name": "Runavald",
+      "kind": "MMORPG 3D",
+      "tagline": "Alta fantasia medieval: sete classes, combate de ação, grupo e progressão até o nível 60.",
+      "stack": [
+        "Unity 6",
+        ".NET",
+        "PostgreSQL"
+      ],
+      "status": "development",
+      "thumb": "runavald",
+      "hero": {
+        "short": "Runavald",
+        "orbit": 2
+      },
+      "fullStack": [
+        "Unity",
+        ".NET / C#",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": "gabrio",
+      "section": "jogos",
+      "name": "GABRIO",
+      "kind": "JOGO 3D",
+      "tagline": "Plataforma e kart para jogar em família; a Fase 1-1 já é jogável.",
+      "stack": [
+        "Unity",
+        "URP",
+        "Shader Graph"
+      ],
+      "status": "development",
+      "thumb": "gabrio",
+      "fullStack": [
+        "Unity"
+      ]
+    },
+    {
+      "id": "worlds-together",
+      "section": "jogos",
+      "name": "Worlds Together",
+      "kind": "AÇÃO COOP",
+      "tagline": "Ação cooperativa de arena em horda para celular e tablet.",
+      "stack": [
+        "Unity 6",
+        "C#"
+      ],
+      "status": "development",
+      "thumb": "worlds-together",
+      "fullStack": [
+        "Unity"
+      ]
+    },
+    {
+      "id": "pipo",
+      "section": "jogos",
+      "name": "Pipo: Brincar e Aprender",
+      "kind": "APP INFANTIL",
+      "tagline": "App infantil bilíngue de 2 a 6 anos, com 7 ilhas, sem anúncios e 100% offline.",
+      "stack": [
+        "Godot",
+        "GDScript",
+        "edge-tts"
+      ],
+      "status": "development",
+      "thumb": "pipo",
+      "fullStack": [
+        "Godot"
+      ]
+    },
+    {
+      "id": "tempestivo",
+      "section": "saas",
+      "name": "Tempestivo",
+      "kind": "SAAS JURÍDICO",
+      "tagline": "Monitora o DJEN de todos os tribunais, calcula prazos e avisa o advogado.",
+      "stack": [
+        ".NET 10",
+        "React",
+        "PostgreSQL"
+      ],
+      "status": "live",
+      "url": "https://www.tempestivo.com.br",
+      "check": true,
+      "thumb": "tempestivo",
+      "hero": {
+        "short": "Tempestivo",
+        "orbit": 1
+      },
+      "own": true,
+      "fullStack": [
+        ".NET 10",
+        "EF Core",
+        "PostgreSQL",
+        "React",
+        "Stripe"
+      ]
+    },
+    {
+      "id": "revamed",
+      "section": "saas",
+      "name": "RevaMed",
+      "kind": "SAAS DE ENSINO",
+      "tagline": "Preparação para o Revalida e o Enamed, com tutor de IA e paciente que fala.",
+      "stack": [
+        ".NET 10",
+        "React",
+        "OpenAI"
+      ],
+      "status": "live",
+      "url": "https://revamd.com.br",
+      "check": true,
+      "thumb": "revamed",
+      "hero": {
+        "short": "RevaMed",
+        "orbit": 1
+      },
+      "own": true,
+      "fullStack": [
+        ".NET 10",
+        "React",
+        "OpenAI",
+        "Stripe",
+        "Flutter"
+      ]
+    },
+    {
+      "id": "gr-contabil",
+      "section": "saas",
+      "name": "GR Contábil",
+      "kind": "SAAS CONTÁBIL",
+      "tagline": "Fiscal, contábil, folha e societário num sistema só, com IA que audita.",
+      "stack": [
+        "Next.js",
+        "NestJS",
+        "PostgreSQL"
+      ],
+      "status": "live",
+      "url": "https://contabil.grochatech.com.br",
+      "check": true,
+      "thumb": "gr-contabil",
+      "hero": {
+        "short": "GR Contábil",
+        "orbit": 1
+      },
+      "own": true,
+      "fullStack": [
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "Firebase",
+        "NestJS",
+        "Prisma",
+        "PostgreSQL",
+        "GROCHA IA",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "gr-mob",
+      "section": "saas",
+      "name": "GR Mob",
+      "kind": "PLATAFORMA WHITE-LABEL",
+      "tagline": "App do passageiro e do motorista, painel e Studio para montar a marca sem programar.",
+      "stack": [
+        "Flutter",
+        ".NET 10",
+        "Next.js"
+      ],
+      "status": "live",
+      "url": "https://mob.grochatech.com.br",
+      "check": true,
+      "thumb": "gr-mob",
+      "hero": {
+        "short": "GR Mob",
+        "orbit": 1
+      },
+      "own": true,
+      "fullStack": [
+        ".NET 10",
+        "PostgreSQL",
+        "SignalR",
+        "Flutter",
+        "Next.js",
+        "Stripe",
+        "Mercado Pago",
+        "Firebase",
+        "GROCHA IA"
+      ]
+    },
+    {
+      "id": "gr-poker",
+      "section": "saas",
+      "name": "GR Poker",
+      "kind": "TEMPO REAL",
+      "tagline": "Planning Poker em tempo real para times ágeis, sem cadastro e com emojis voando.",
+      "stack": [
+        "Next.js",
+        "Firebase",
+        "Framer Motion"
+      ],
+      "status": "live",
+      "url": "https://poker.grochatech.com.br",
+      "check": true,
+      "thumb": "gr-poker",
+      "hero": {
+        "short": "GR Poker",
+        "orbit": 2
+      },
+      "own": true,
+      "fullStack": [
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Firebase",
+        "Mercado Pago",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "gr-builder",
+      "section": "saas",
+      "name": "GR Builder",
+      "kind": "CONSTRUTOR DE SITES",
+      "tagline": "Construtor de sites por blocos com IA: o site pronto é seu, em código estático.",
+      "stack": [
+        "Next.js",
+        "Drizzle",
+        "PostgreSQL"
+      ],
+      "status": "live",
+      "url": "https://builder.grochatech.com.br",
+      "check": true,
+      "thumb": "gr-builder",
+      "hero": {
+        "short": "GR Builder",
+        "orbit": 2
+      },
+      "own": true,
+      "fullStack": [
+        "Next.js",
+        "Drizzle",
+        "PostgreSQL",
+        "Docker",
+        "Mercado Pago",
+        "Stripe",
+        "Flutter",
+        "GROCHA IA",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "grerp",
+      "section": "saas",
+      "name": "GR ERP",
+      "kind": "ERP MULTI-TENANT",
+      "tagline": "ERP brasileiro com vendas, estoque com kardex e faturamento com fiscal nativo.",
+      "stack": [
+        ".NET 10",
+        "React",
+        "PostgreSQL"
+      ],
+      "status": "development",
+      "thumb": "grerp",
+      "fullStack": [
+        ".NET 10",
+        "EF Core",
+        "PostgreSQL",
+        "React",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "id": "figurino",
+      "section": "saas",
+      "name": "Figurino",
+      "kind": "MODA CUSTOMIZÁVEL",
+      "tagline": "Customizador 3D com IA para lojas de moda: o cliente cria a peça antes de comprar.",
+      "stack": [
+        "Next.js",
+        "Three.js",
+        "PostgreSQL"
+      ],
+      "status": "live",
+      "url": "https://figurino.shop",
+      "check": true,
+      "thumb": "figurino",
+      "hero": {
+        "short": "Figurino",
+        "orbit": 2
+      },
+      "own": true,
+      "fullStack": [
+        "Next.js",
+        "React",
+        "Drizzle",
+        "PostgreSQL",
+        "Docker",
+        "Mercado Pago",
+        "Stripe",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "gr-financas",
+      "section": "apps",
+      "name": "GR Finanças",
+      "kind": "APP FINANCEIRO",
+      "tagline": "A conta entra por uma foto: a câmera lê valor e vencimento e a IA preenche o resto.",
+      "stack": [
+        "Flutter",
+        "Firebase",
+        "GROCHA IA"
+      ],
+      "status": "live",
+      "url": "https://financas.grochatech.com.br/",
+      "check": true,
+      "thumb": "gr-financas",
+      "hero": {
+        "short": "GR Finanças",
+        "orbit": 1
+      },
+      "own": true,
+      "fullStack": [
+        "Flutter",
+        "Firebase",
+        "Next.js",
+        "GROCHA IA"
+      ]
+    },
+    {
+      "id": "stopaposta",
+      "section": "apps",
+      "name": "StopAposta",
+      "kind": "APP DE SAÚDE",
+      "tagline": "Barreira contra as bets com um guardião de confiança e ajuda na hora da fissura.",
+      "stack": [
+        "Flutter",
+        ".NET 10",
+        "PostgreSQL"
+      ],
+      "status": "live",
+      "url": "https://www.stopaposta.com.br",
+      "check": true,
+      "thumb": "stopaposta",
+      "hero": {
+        "short": "StopAposta",
+        "orbit": 1
+      },
+      "own": true,
+      "fullStack": [
+        "Flutter",
+        ".NET 10",
+        "PostgreSQL",
+        "Firebase"
+      ]
+    },
+    {
+      "id": "tiradez",
+      "section": "apps",
+      "name": "TiraDez",
+      "kind": "APP DE ENSINO",
+      "tagline": "Professor 3D particular do 1º ano ao ENEM, com ajuda de IA e voz.",
+      "stack": [
+        "Flutter",
+        ".NET",
+        "Next.js"
+      ],
+      "status": "store",
+      "url": "https://play.google.com/store/apps/details?id=br.com.aprendeai.app",
+      "check": true,
+      "thumb": "tiradez",
+      "hero": {
+        "short": "TiraDez",
+        "orbit": 2
+      },
+      "own": true,
+      "fullStack": [
+        "Flutter",
+        "Next.js",
+        ".NET / C#",
+        "GROCHA IA"
+      ]
+    },
+    {
+      "id": "uplevfit",
+      "section": "apps",
+      "name": "Uplevfit",
+      "kind": "APP FITNESS",
+      "tagline": "Fitness gamificado com avatar que evolui e IA própria, em pré-lançamento.",
+      "stack": [
+        "Flutter",
+        "NestJS",
+        "PostgreSQL"
+      ],
+      "status": "prelaunch",
+      "url": "https://www.uplevfit.com",
+      "check": true,
+      "thumb": "uplevfit",
+      "fullStack": [
+        "Flutter",
+        "NestJS",
+        "PostgreSQL",
+        "React"
+      ]
+    },
+    {
+      "id": "avus",
+      "section": "apps",
+      "name": "Avus Farma",
+      "kind": "HEALTHTECH",
+      "tagline": "Telemedicina, pronto-socorro 24h, farmácia online e pagamentos num app só.",
+      "stack": [
+        "Flutter",
+        "Clean Architecture"
+      ],
+      "status": "delivered",
+      "thumb": "avus",
+      "fullStack": [
+        "Flutter"
+      ]
+    },
+    {
+      "id": "bradesco",
+      "section": "apps",
+      "name": "Bradesco Shop",
+      "kind": "E-COMMERCE",
+      "tagline": "E-commerce dentro do app do banco, com ofertas, cashback e cupons.",
+      "stack": [
+        "Flutter"
+      ],
+      "status": "delivered",
+      "thumb": "bradesco",
+      "fullStack": [
+        "Flutter"
+      ]
+    },
+    {
+      "id": "dmconta",
+      "section": "apps",
+      "name": "DM Conta",
+      "kind": "APP BANCÁRIO",
+      "tagline": "Conta digital, pagamentos, transferências e investimentos num aplicativo só.",
+      "stack": [
+        "Flutter"
+      ],
+      "status": "delivered",
+      "thumb": "dmconta",
+      "fullStack": [
+        "Flutter"
+      ]
+    },
+    {
+      "id": "grocha-ia",
+      "section": "ia",
+      "name": "GROCHA IA",
+      "kind": "PLATAFORMA DE IA",
+      "tagline": "IA compartilhada que alimenta leitura de contas, minutas e auditorias nos produtos.",
+      "stack": [
+        "Gateway",
+        "Multi-tenant"
+      ],
+      "status": "internal",
+      "art": {
+        "type": "graph",
+        "nodes": [
+          "GR Finanças",
+          "GR Contábil",
+          "GR Mob",
+          "GR Builder"
+        ]
+      }
+    },
+    {
+      "id": "richard",
+      "section": "clientes",
+      "name": "Dr. Richard Martins",
+      "kind": "SITE + BLOG",
+      "tagline": "Site, blog e painel de conteúdo para advogado criminalista, com SEO local e WhatsApp.",
+      "stack": [
+        "HTML",
+        "Firebase",
+        "SEO"
+      ],
+      "status": "live",
+      "url": "https://escritoriorichardmartins.com",
+      "check": true,
+      "thumb": "richard",
+      "fullStack": [
+        "Firebase"
+      ]
+    },
+    {
+      "id": "dr-elson",
+      "section": "clientes",
+      "name": "Dr. Elson Shockness",
+      "kind": "SITE MÉDICO",
+      "tagline": "Site de neurocirurgião com coluna vertebral animada e painel para publicar artigos.",
+      "stack": [
+        "Next.js",
+        "Firebase",
+        "GitHub Actions"
+      ],
+      "status": "live",
+      "url": "https://dr-elson-shockness.web.app",
+      "check": true,
+      "thumb": "dr-elson",
+      "fullStack": [
+        "Next.js",
+        "Firebase",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "id": "rocha",
+      "section": "clientes",
+      "name": "Rocha Contabilidade Digital",
+      "kind": "SITE + PAINEL",
+      "tagline": "Site e painel de gestão contábil multi-tenant de um escritório de contabilidade.",
+      "stack": [
+        "Next.js",
+        "NestJS",
+        "PostgreSQL"
+      ],
+      "status": "live",
+      "url": "https://rochacontabilidade.digital",
+      "check": true,
+      "thumb": "rocha",
+      "fullStack": [
+        "Next.js",
+        "NestJS",
+        "Prisma",
+        "PostgreSQL",
+        "Firebase",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "breno-mendes",
+      "section": "clientes",
+      "name": "Dr. Breno Mendes",
+      "kind": "SITE DE CAMPANHA",
+      "tagline": "Site de campanha de uma página só, mobile-first e pensado para o WhatsApp.",
+      "stack": [
+        "Next.js",
+        "Framer Motion",
+        "Firebase"
+      ],
+      "status": "live",
+      "url": "https://www.drbrenomendes.com.br",
+      "check": true,
+      "thumb": "breno-mendes",
+      "fullStack": [
+        "Next.js",
+        "Framer Motion",
+        "Firebase"
+      ]
+    },
+    {
+      "id": "bruna",
+      "section": "clientes",
+      "name": "Dra. Bruna Rocha",
+      "kind": "SITE PWA",
+      "tagline": "Site de terapeuta e psicanalista, responsivo e acolhedor, com experiência PWA.",
+      "stack": [
+        "Flutter Web",
+        "PWA"
+      ],
+      "status": "offline",
+      "thumb": "bruna",
+      "fullStack": [
+        "Flutter"
+      ]
+    },
+    {
+      "id": "signalr_ultra",
+      "section": "oss",
+      "name": "signalr_ultra",
+      "kind": "BIBLIOTECA",
+      "tagline": "Cliente SignalR para Flutter e Dart, com transportes, protocolos e reconexão.",
+      "stack": [
+        "Dart",
+        "Flutter",
+        "MIT"
+      ],
+      "status": "oss",
+      "url": "https://github.com/gabrielscr/signalr_ultra",
+      "repo": "gabrielscr/signalr_ultra",
+      "art": {
+        "type": "code",
+        "title": "lib/",
+        "lines": [
+          "signalr_ultra.dart",
+          "src/signalr_client.dart",
+          "src/builders/connection_builder.dart",
+          "src/builders/transport_builder.dart",
+          "src/transport/long_polling_transport.dart",
+          "src/core/domain/interfaces/retry_interface.dart",
+          "src/core/domain/entities/connection_state.dart"
+        ]
+      },
+      "fullStack": [
+        "Flutter",
+        "SignalR"
+      ]
+    },
+    {
+      "id": "code-agents",
+      "section": "oss",
+      "name": "code-agents",
+      "kind": "COLEÇÃO",
+      "tagline": "Coleção de agentes de IA especializados para frontend, mobile e backend.",
+      "stack": [
+        "Markdown",
+        "IA",
+        "MIT"
+      ],
+      "status": "oss",
+      "url": "https://github.com/gabrielscr/code-agents",
+      "repo": "gabrielscr/code-agents",
+      "art": {
+        "type": "code",
+        "title": "code-agents/",
+        "lines": [
+          "frontend-ai-agents/",
+          "mobile-ai-agents/",
+          "   flutter/",
+          "   ios/",
+          "   android/",
+          "backend-ai-agents/",
+          "   dotnet/",
+          "   nodejs/",
+          "   python/"
+        ]
+      }
+    },
+    {
+      "id": "media_social_share",
+      "section": "oss",
+      "name": "media_social_share",
+      "kind": "PLUGIN FLUTTER",
+      "tagline": "Plugin Flutter que compartilha em Instagram, Facebook e WhatsApp de forma nativa.",
+      "stack": [
+        "Dart",
+        "Kotlin",
+        "MIT"
+      ],
+      "status": "oss",
+      "url": "https://github.com/gabrielscr/media_social_share",
+      "repo": "gabrielscr/media_social_share",
+      "art": {
+        "type": "code",
+        "title": "media_social_share/",
+        "lines": [
+          "lib/media_social_share.dart",
+          "android/src/main/kotlin/",
+          "   MediaSocialSharePlugin.kt",
+          "android/src/main/",
+          "   AndroidManifest.xml"
+        ]
+      },
+      "fullStack": [
+        "Flutter",
+        "Kotlin"
+      ]
+    },
+    {
+      "id": "orders_sw",
+      "section": "oss",
+      "name": "orders_sw",
+      "kind": "APP FLUTTER",
+      "tagline": "App Flutter em camadas (MVVM) com design system próprio e testes automatizados.",
+      "stack": [
+        "Dart",
+        "Flutter",
+        "MIT"
+      ],
+      "status": "oss",
+      "url": "https://github.com/gabrielscr/orders_sw",
+      "repo": "gabrielscr/orders_sw",
+      "art": {
+        "type": "code",
+        "title": "lib/",
+        "lines": [
+          "main.dart",
+          "src/core/constants/endpoints.dart",
+          "src/core/design_system/loading_overlay.dart",
+          "src/core/exception/api_exception.dart",
+          "external/services/storage/",
+          "   storage_service_impl.dart",
+          "external/services/secure_storage/"
+        ]
+      },
+      "fullStack": [
+        "Flutter"
+      ]
+    }
+  ]
+}

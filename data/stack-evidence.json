@@ -1,0 +1,43 @@
+[
+  {
+    "repo": "site da GROCHA Tech (repositório do site)",
+    "stack": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Firebase",
+      "Cloudflare",
+      "GitHub Actions",
+      "Mercado Pago"
+    ]
+  },
+  {
+    "repo": "iapp (público)",
+    "stack": [
+      "Swift"
+    ]
+  },
+  {
+    "repo": "learning-swift (público)",
+    "stack": [
+      "Swift"
+    ]
+  },
+  {
+    "repo": "learning-kotlin (público)",
+    "stack": [
+      "Kotlin"
+    ]
+  },
+  {
+    "repo": "todo-api (público)",
+    "stack": [
+      "NestJS",
+      "TypeScript",
+      "Prisma",
+      "PostgreSQL"
+    ]
+  }
+]

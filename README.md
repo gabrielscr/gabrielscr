@@ -1,74 +1,179 @@
-<div align="center">
+<!-- Gerado por scripts/build.mjs a partir de data/. Edite data/ e scripts/, não este arquivo. -->
+<h1 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/hero-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/hero-dark.svg" alt="Gabriel Rocha, GROCHA Tech. Mapa orbital com os produtos ao redor: Cilada!, Cilada 3D, Panteão, Runavald, Tempestivo, RevaMed, GR Contábil, GR Mob, GR Poker, GR Builder, Figurino, GR Finanças, StopAposta, TiraDez. Do conceito ao lançamento." width="100%"></picture></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Sou+o+Gabriel+Rocha+%F0%9F%91%8B;Full-Stack+%C2%B7+.NET+%C2%B7+Flutter+%C2%B7+React;Fundador+da+GROCHA+Tech;Do+conceito+ao+lan%C3%A7amento." alt="Gabriel Rocha" />
+<p align="center">
+<b>Gabriel Rocha</b> · fundador da <a href="https://grochatech.com.br"><b>GROCHA Tech</b></a><br>
+Desenvolvedor full-stack sênior · do conceito ao lançamento
+</p>
 
-<br/>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-contrib-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-contrib-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-contrib-dark.svg" alt="6.905 contribuições nos últimos 12 meses" width="160"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-repos-dark.svg" alt="54 repositórios públicos" width="160"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-produtos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-produtos-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-produtos-dark.svg" alt="10 produtos no ar" width="160"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-jogos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-jogos-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/tile-jogos-dark.svg" alt="3 jogos nas lojas" width="160"></picture>
+</p>
 
-**Desenvolvedor Full-Stack Sênior** · **Fundador da [GROCHA Tech](https://grochatech.com.br)**
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/skyline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/skyline-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/skyline-dark.svg" alt="Skyline isométrica das contribuições no GitHub nos últimos 12 meses: 6.905 contribuições, 54 repositórios públicos." width="100%"></picture>
+</p>
 
-Construo produtos digitais de ponta a ponta — SaaS, apps, sistemas, jogos e IA.
-Engenharia sólida (Clean Architecture, multi-tenant, IA aplicada) e design que converte.
+<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-jogos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-jogos-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-jogos-dark.svg" alt="Jogos: 7 projetos · 3 no ar · 4 em construção" width="100%"></picture></h2>
 
-[![GROCHA Tech](https://img.shields.io/badge/GROCHA%20Tech-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grochatech.com.br)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-7C5CFF?style=for-the-badge&logo=readme&logoColor=white)](https://eu.grochatech.com.br)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519996115213)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielscr)
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.gabrielrocha.cilada"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-cilada-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-cilada-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-cilada-dark.svg" alt="Cilada! (jogo 2d, nas lojas): Plataformer 2D de trolladas: fases curtas, controle preciso e armadilhas na sua cara. Abre play.google.com/store/apps/details?id=com.gabrielrocha.cilada." width="400"></picture></a>
+<a href="https://cilada-3d.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-cilada-3d-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-cilada-3d-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-cilada-3d-dark.svg" alt="Cilada 3D (jogo 3d, nas lojas): Plataformer 3D em que a cilada mente sobre o cenário, nunca sobre o controle. Abre cilada-3d.web.app." width="400"></picture></a>
+<a href="https://play.google.com/store/apps/details?id=com.grochatech.panteao"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-panteao-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-panteao-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-panteao-dark.svg" alt="Panteão: Batalha de Cards (jogo de cartas, nas lojas): Duelos de cartas entre mitos: estátuas que despertam e partidas em equipe. Abre play.google.com/store/apps/details?id=com.grochatech.panteao." width="400"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-runavald-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-runavald-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-runavald-dark.svg" alt="Runavald (mmorpg 3d, em desenvolvimento): Alta fantasia medieval: sete classes, combate de ação, grupo e progressão até o nível 60." width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gabrio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gabrio-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gabrio-dark.svg" alt="GABRIO (jogo 3d, em desenvolvimento): Plataforma e kart para jogar em família; a Fase 1-1 já é jogável." width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-worlds-together-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-worlds-together-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-worlds-together-dark.svg" alt="Worlds Together (ação coop, em desenvolvimento): Ação cooperativa de arena em horda para celular e tablet." width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-pipo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-pipo-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-pipo-dark.svg" alt="Pipo: Brincar e Aprender (app infantil, em desenvolvimento): App infantil bilíngue de 2 a 6 anos, com 7 ilhas, sem anúncios e 100% offline." width="400"></picture>
+</p>
 
-</div>
+<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-saas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-saas-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-saas-dark.svg" alt="Produtos SaaS: 8 projetos · 7 no ar · 1 em construção" width="100%"></picture></h2>
 
----
+<p align="center">
+<a href="https://www.tempestivo.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-tempestivo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-tempestivo-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-tempestivo-dark.svg" alt="Tempestivo (saas jurídico, no ar): Monitora o DJEN de todos os tribunais, calcula prazos e avisa o advogado. Abre www.tempestivo.com.br." width="400"></picture></a>
+<a href="https://revamd.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-revamed-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-revamed-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-revamed-dark.svg" alt="RevaMed (saas de ensino, no ar): Preparação para o Revalida e o Enamed, com tutor de IA e paciente que fala. Abre revamd.com.br." width="400"></picture></a>
+<a href="https://contabil.grochatech.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-contabil-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-contabil-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-contabil-dark.svg" alt="GR Contábil (saas contábil, no ar): Fiscal, contábil, folha e societário num sistema só, com IA que audita. Abre contabil.grochatech.com.br." width="400"></picture></a>
+<a href="https://mob.grochatech.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-mob-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-mob-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-mob-dark.svg" alt="GR Mob (plataforma white-label, no ar): App do passageiro e do motorista, painel e Studio para montar a marca sem programar. Abre mob.grochatech.com.br." width="400"></picture></a>
+<a href="https://poker.grochatech.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-poker-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-poker-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-poker-dark.svg" alt="GR Poker (tempo real, no ar): Planning Poker em tempo real para times ágeis, sem cadastro e com emojis voando. Abre poker.grochatech.com.br." width="400"></picture></a>
+<a href="https://builder.grochatech.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-builder-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-builder-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-builder-dark.svg" alt="GR Builder (construtor de sites, no ar): Construtor de sites por blocos com IA: o site pronto é seu, em código estático. Abre builder.grochatech.com.br." width="400"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-grerp-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-grerp-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-grerp-dark.svg" alt="GR ERP (erp multi-tenant, em desenvolvimento): ERP brasileiro com vendas, estoque com kardex e faturamento com fiscal nativo." width="400"></picture>
+<a href="https://figurino.shop"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-figurino-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-figurino-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-figurino-dark.svg" alt="Figurino (moda customizável, no ar): Customizador 3D com IA para lojas de moda: o cliente cria a peça antes de comprar. Abre figurino.shop." width="400"></picture></a>
+</p>
 
-## 🚀 Produtos que construí
+<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-apps-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-apps-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-apps-dark.svg" alt="Apps: 7 projetos · 3 no ar · 1 em construção" width="100%"></picture></h2>
 
-| Produto | O que é | Link |
-|---|---|---|
-| ⚖️ **Tempestivo** | SaaS jurídico — monitora o DJEN de todos os tribunais, calcula prazos e gera minutas com IA | [tempestivo.com.br](https://www.tempestivo.com.br) |
-| 🩺 **RevaMed** | Preparação para o Revalida com paciente-IA em estações OSCE (533 questões) | [revamd.com.br](https://www.revamd.com.br) |
-| 📊 **GR Contábil** | Contabilidade com IA: fiscal, contábil, folha e societário num sistema só | [contabil.grochatech.com.br](https://contabil.grochatech.com.br) |
-| 🧮 **GR ERP** | ERP multi-tenant brasileiro: vendas, estoque, NF-e e fiscal BR nativo | [erp.grochatech.com.br](https://erp.grochatech.com.br) |
-| 🚕 **GR Mob** | Plataforma white-label de mobilidade — monte seu app de transporte | [mob.grochatech.com.br](https://mob.grochatech.com.br) |
-| 🧩 **GR Poker** | Planning Poker em tempo real pra times ágeis | [poker.grochatech.com.br](https://poker.grochatech.com.br) |
+<p align="center">
+<a href="https://financas.grochatech.com.br/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-financas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-financas-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-gr-financas-dark.svg" alt="GR Finanças (app financeiro, no ar): A conta entra por uma foto: a câmera lê valor e vencimento e a IA preenche o resto. Abre financas.grochatech.com.br." width="400"></picture></a>
+<a href="https://www.stopaposta.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-stopaposta-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-stopaposta-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-stopaposta-dark.svg" alt="StopAposta (app de saúde, no ar): Barreira contra as bets com um guardião de confiança e ajuda na hora da fissura. Abre www.stopaposta.com.br." width="400"></picture></a>
+<a href="https://play.google.com/store/apps/details?id=br.com.aprendeai.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-tiradez-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-tiradez-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-tiradez-dark.svg" alt="TiraDez (app de ensino, nas lojas): Professor 3D particular do 1º ano ao ENEM, com ajuda de IA e voz. Abre play.google.com/store/apps/details?id=br.com.aprendeai.app." width="400"></picture></a>
+<a href="https://www.uplevfit.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-uplevfit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-uplevfit-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-uplevfit-dark.svg" alt="Uplevfit (app fitness, pré-lançamento): Fitness gamificado com avatar que evolui e IA própria, em pré-lançamento. Abre www.uplevfit.com." width="400"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-avus-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-avus-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-avus-dark.svg" alt="Avus Farma (healthtech, entregue): Telemedicina, pronto-socorro 24h, farmácia online e pagamentos num app só." width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-bradesco-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-bradesco-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-bradesco-dark.svg" alt="Bradesco Shop (e-commerce, entregue): E-commerce dentro do app do banco, com ofertas, cashback e cupons." width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-dmconta-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-dmconta-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-dmconta-dark.svg" alt="DM Conta (app bancário, entregue): Conta digital, pagamentos, transferências e investimentos num aplicativo só." width="400"></picture>
+</p>
 
-> Mais produtos e o código em **[github.com/grochatech](https://github.com/grochatech)**
+<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-ia-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-ia-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-ia-dark.svg" alt="IA e plataforma: 1 projeto · uso interno" width="100%"></picture></h2>
 
----
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-grocha-ia-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-grocha-ia-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-grocha-ia-dark.svg" alt="GROCHA IA (plataforma de ia, plataforma): IA compartilhada que alimenta leitura de contas, minutas e auditorias nos produtos." width="400"></picture>
+</p>
 
-## 🧰 Stack
+<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-clientes-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-clientes-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-clientes-dark.svg" alt="Sites de clientes: 5 projetos · 4 no ar" width="100%"></picture></h2>
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+<p align="center">
+<a href="https://escritoriorichardmartins.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-richard-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-richard-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-richard-dark.svg" alt="Dr. Richard Martins (site + blog, no ar): Site, blog e painel de conteúdo para advogado criminalista, com SEO local e WhatsApp. Abre escritoriorichardmartins.com." width="400"></picture></a>
+<a href="https://dr-elson-shockness.web.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-dr-elson-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-dr-elson-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-dr-elson-dark.svg" alt="Dr. Elson Shockness (site médico, no ar): Site de neurocirurgião com coluna vertebral animada e painel para publicar artigos. Abre dr-elson-shockness.web.app." width="400"></picture></a>
+<a href="https://rochacontabilidade.digital"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-rocha-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-rocha-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-rocha-dark.svg" alt="Rocha Contabilidade Digital (site + painel, no ar): Site e painel de gestão contábil multi-tenant de um escritório de contabilidade. Abre rochacontabilidade.digital." width="400"></picture></a>
+<a href="https://www.drbrenomendes.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-breno-mendes-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-breno-mendes-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-breno-mendes-dark.svg" alt="Dr. Breno Mendes (site de campanha, no ar): Site de campanha de uma página só, mobile-first e pensado para o WhatsApp. Abre www.drbrenomendes.com.br." width="400"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-bruna-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-bruna-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-bruna-dark.svg" alt="Dra. Bruna Rocha (site pwa, fora do ar): Site de terapeuta e psicanalista, responsivo e acolhedor, com experiência PWA." width="400"></picture>
+</p>
 
----
+<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-oss-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-oss-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/section-oss-dark.svg" alt="Open source: 4 projetos · código aberto" width="100%"></picture></h2>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/gabrielscr/signalr_ultra"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-signalr_ultra-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-signalr_ultra-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-signalr_ultra-dark.svg" alt="signalr_ultra (biblioteca, código aberto): Cliente SignalR para Flutter e Dart, com transportes, protocolos e reconexão. Abre github.com/gabrielscr/signalr_ultra." width="400"></picture></a>
+<a href="https://github.com/gabrielscr/code-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-code-agents-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-code-agents-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-code-agents-dark.svg" alt="code-agents (coleção, código aberto): Coleção de agentes de IA especializados para frontend, mobile e backend. Abre github.com/gabrielscr/code-agents." width="400"></picture></a>
+<a href="https://github.com/gabrielscr/media_social_share"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-media_social_share-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-media_social_share-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-media_social_share-dark.svg" alt="media_social_share (plugin flutter, código aberto): Plugin Flutter que compartilha em Instagram, Facebook e WhatsApp de forma nativa. Abre github.com/gabrielscr/media_social_share." width="400"></picture></a>
+<a href="https://github.com/gabrielscr/orders_sw"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-orders_sw-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-orders_sw-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/card-orders_sw-dark.svg" alt="orders_sw (app flutter, código aberto): App Flutter em camadas (MVVM) com design system próprio e testes automatizados. Abre github.com/gabrielscr/orders_sw." width="400"></picture></a>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielscr&show_icons=true&hide_border=true&bg_color=070B16&title_color=22D3EE&text_color=e6ecf7&icon_color=2563EB" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscr&layout=compact&hide_border=true&bg_color=070B16&title_color=22D3EE&text_color=e6ecf7" alt="top langs" />
+<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/footer-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/footer-dark.svg" alt="Tem um projeto em mente? Software do conceito ao lançamento." width="100%"></picture></h2>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielscr&bg_color=070B16&color=22D3EE&line=2563EB&point=ffffff&area=true&hide_border=true" alt="activity" />
+<p align="center">
+<a href="https://grochatech.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-site-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-site-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-site-dark.svg" alt="Site da GROCHA Tech: grochatech.com.br" width="160"></picture></a>
+<a href="https://eu.grochatech.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-portfolio-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-portfolio-dark.svg" alt="Portfólio de Gabriel Rocha: eu.grochatech.com.br" width="160"></picture></a>
+<a href="https://wa.me/5519996115213"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-whatsapp-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-whatsapp-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-whatsapp-dark.svg" alt="Conversar pelo WhatsApp: (19) 99611-5213" width="160"></picture></a>
+<a href="https://linkedin.com/in/gabrielscr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-linkedin-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/btn-linkedin-dark.svg" alt="Perfil no LinkedIn: in/gabrielscr" width="160"></picture></a>
+</p>
 
-</div>
+<h2 align="center">Linha do tempo</h2>
 
----
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/timeline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/timeline-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/timeline-dark.svg" alt="Linha do tempo de 2017 a 2026: MAI/2017, Primeiro repositório no GitHub; ABR/2019, Flutter e Dart entram na stack; FEV/2020, Rocha Contabilidade; MAR/2021, media_social_share; ABR/2022, G R Tecnologia; SET/2025, signalr_ultra; JUN/2026, Linha de produtos GROCHA; 16/10/2026, Cilada! e Cilada 3D nas lojas; 18/10/2026, GR Builder, Tempestivo e Figurino no ar; 05/11/2026, Panteão no Google Play." width="480"></picture>
+</p>
 
-<div align="center">
+<h2 align="center">Stack</h2>
 
-### 💡 Tem um projeto em mente? Vamos tirar do papel.
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-backend-e-dados-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-backend-e-dados-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-backend-e-dados-dark.svg" alt="Stack backend e dados: PostgreSQL em 11, .NET / C# em 8, NestJS em 4, Drizzle / Prisma em 4, SignalR em 3, EF Core em 2" width="264"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-mobile-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-mobile-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-mobile-dark.svg" alt="Stack mobile: Flutter / Dart em 14, Kotlin em 2, Swift em 2" width="264"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-web-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-web-dark.svg" alt="Stack web: Next.js em 11, React em 7, TypeScript em 7, Tailwind CSS em 4, Framer Motion em 3" width="264"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-jogos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-jogos-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-jogos-dark.svg" alt="Stack jogos: Unity em 4, Godot em 3" width="264"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-nuvem-e-entrega-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-nuvem-e-entrega-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-nuvem-e-entrega-dark.svg" alt="Stack nuvem e entrega: Firebase em 10, GitHub Actions em 2, Docker em 2, Cloudflare em 1" width="264"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-ia-e-pagamentos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-ia-e-pagamentos-light.svg"><img src="https://raw.githubusercontent.com/gabrielscr/gabrielscr/main/assets/stack-ia-e-pagamentos-dark.svg" alt="Stack ia e pagamentos: GROCHA IA em 5, Stripe em 5, Mercado Pago em 5, OpenAI em 1" width="264"></picture>
+</p>
 
-🌐 [grochatech.com.br](https://grochatech.com.br) &nbsp;·&nbsp; 💬 [(19) 99611-5213](https://wa.me/5519996115213) &nbsp;·&nbsp; 📇 [Portfólio](https://eu.grochatech.com.br)
+<details>
+<summary><b>Tudo em texto</b> (lista de projetos, links e contatos)</summary>
 
-<sub>Software de alto nível, do conceito ao lançamento. 🚀</sub>
+<br>
 
-</div>
+**Jogos**
+
+| Projeto | Tipo | Estado | Link |
+|---|---|---|---|
+| Cilada! | Jogo 2d | Nas lojas | [play.google.com/store/apps/details?id=com.gabrielrocha.cilada](https://play.google.com/store/apps/details?id=com.gabrielrocha.cilada) |
+| Cilada 3D | Jogo 3d | Nas lojas | [cilada-3d.web.app](https://cilada-3d.web.app/) |
+| Panteão: Batalha de Cards | Jogo de cartas | Nas lojas | [play.google.com/store/apps/details?id=com.grochatech.panteao](https://play.google.com/store/apps/details?id=com.grochatech.panteao) |
+| Runavald | Mmorpg 3d | Em desenvolvimento | — |
+| GABRIO | Jogo 3d | Em desenvolvimento | — |
+| Worlds Together | Ação coop | Em desenvolvimento | — |
+| Pipo: Brincar e Aprender | App infantil | Em desenvolvimento | — |
+
+**Produtos SaaS**
+
+| Projeto | Tipo | Estado | Link |
+|---|---|---|---|
+| Tempestivo | Saas jurídico | No ar | [www.tempestivo.com.br](https://www.tempestivo.com.br) |
+| RevaMed | Saas de ensino | No ar | [revamd.com.br](https://revamd.com.br) |
+| GR Contábil | Saas contábil | No ar | [contabil.grochatech.com.br](https://contabil.grochatech.com.br) |
+| GR Mob | Plataforma white-label | No ar | [mob.grochatech.com.br](https://mob.grochatech.com.br) |
+| GR Poker | Tempo real | No ar | [poker.grochatech.com.br](https://poker.grochatech.com.br) |
+| GR Builder | Construtor de sites | No ar | [builder.grochatech.com.br](https://builder.grochatech.com.br) |
+| GR ERP | Erp multi-tenant | Em desenvolvimento | — |
+| Figurino | Moda customizável | No ar | [figurino.shop](https://figurino.shop) |
+
+**Apps**
+
+| Projeto | Tipo | Estado | Link |
+|---|---|---|---|
+| GR Finanças | App financeiro | No ar | [financas.grochatech.com.br](https://financas.grochatech.com.br/) |
+| StopAposta | App de saúde | No ar | [www.stopaposta.com.br](https://www.stopaposta.com.br) |
+| TiraDez | App de ensino | Nas lojas | [play.google.com/store/apps/details?id=br.com.aprendeai.app](https://play.google.com/store/apps/details?id=br.com.aprendeai.app) |
+| Uplevfit | App fitness | Pré-lançamento | [www.uplevfit.com](https://www.uplevfit.com) |
+| Avus Farma | Healthtech | Entregue | — |
+| Bradesco Shop | E-commerce | Entregue | — |
+| DM Conta | App bancário | Entregue | — |
+
+**IA e plataforma**
+
+| Projeto | Tipo | Estado | Link |
+|---|---|---|---|
+| GROCHA IA | Plataforma de ia | Plataforma | — |
+
+**Sites de clientes**
+
+| Projeto | Tipo | Estado | Link |
+|---|---|---|---|
+| Dr. Richard Martins | Site + blog | No ar | [escritoriorichardmartins.com](https://escritoriorichardmartins.com) |
+| Dr. Elson Shockness | Site médico | No ar | [dr-elson-shockness.web.app](https://dr-elson-shockness.web.app) |
+| Rocha Contabilidade Digital | Site + painel | No ar | [rochacontabilidade.digital](https://rochacontabilidade.digital) |
+| Dr. Breno Mendes | Site de campanha | No ar | [www.drbrenomendes.com.br](https://www.drbrenomendes.com.br) |
+| Dra. Bruna Rocha | Site pwa | Fora do ar | — |
+
+**Open source**
+
+| Projeto | Tipo | Estado | Link |
+|---|---|---|---|
+| signalr_ultra | Biblioteca | Código aberto | [github.com/gabrielscr/signalr_ultra](https://github.com/gabrielscr/signalr_ultra) |
+| code-agents | Coleção | Código aberto | [github.com/gabrielscr/code-agents](https://github.com/gabrielscr/code-agents) |
+| media_social_share | Plugin flutter | Código aberto | [github.com/gabrielscr/media_social_share](https://github.com/gabrielscr/media_social_share) |
+| orders_sw | App flutter | Código aberto | [github.com/gabrielscr/orders_sw](https://github.com/gabrielscr/orders_sw) |
+
+**Contato:** [grochatech.com.br](https://grochatech.com.br) · [eu.grochatech.com.br](https://eu.grochatech.com.br) · [WhatsApp (19) 99611-5213](https://wa.me/5519996115213) · [LinkedIn](https://linkedin.com/in/gabrielscr)
+
+</details>
+
+<p align="center"><sub>Painel gerado por <a href="https://github.com/gabrielscr/gabrielscr/tree/main/scripts">scripts/</a> a partir de <code>data/projects.json</code>. Contribuições, repositórios e o LED de cada link são medidos todo dia pelo GitHub Actions; o link só aparece onde o endereço é público.</sub></p>

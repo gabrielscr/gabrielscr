@@ -1,0 +1,10 @@
+{
+  "name": "gabrielscr-profile",
+  "private": true,
+  "type": "module",
+  "description": "Gerador do README de perfil: SVGs a partir de data/projects.json (Node sem dependências).",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}

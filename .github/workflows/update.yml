@@ -1,0 +1,41 @@
+name: Atualizar perfil
+
+on:
+  schedule:
+    - cron: '17 6 * * *' # todo dia, 06:17 UTC
+  workflow_dispatch:
+
+# GITHUB_TOKEN padrão do repositório: só precisa escrever conteúdo (commit do README e dos SVGs).
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4.2.2
+      - uses: actions/setup-node@v4.1.0
+        with:
+          node-version: '22.12.0'
+      - name: Buscar contribuições, estatísticas e medir os links
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/fetch-data.mjs
+      - name: Gerar SVGs e README
+        run: node scripts/build.mjs
+      - name: Commit só se houve mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Sem mudanças."
+          else
+            git commit -m "chore: atualizar painel (dados do dia)"
+            git push
+          fi

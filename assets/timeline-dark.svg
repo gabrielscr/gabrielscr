@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 480 1199" width="480" height="1199" role="img" aria-labelledby="t d">
+<title id="t">Linha do tempo de 2017 a 2026</title>
+<desc id="d">MAI/2017: Primeiro repositório no GitHub; ABR/2019: Flutter e Dart entram na stack; FEV/2020: Rocha Contabilidade; MAR/2021: media_social_share; ABR/2022: G R Tecnologia; SET/2025: signalr_ultra; JUN/2026: Linha de produtos GROCHA; 16/10/2026: Cilada! e Cilada 3D nas lojas; 18/10/2026: GR Builder, Tempestivo e Figurino no ar; 05/11/2026: Panteão no Google Play</desc>
+<defs><radialGradient id="tmA" cx="18%" cy="0%" r="95%"><stop offset="0" stop-color="#2563EB" stop-opacity="0.28"/><stop offset="0.55" stop-color="#0B1226" stop-opacity="0"/></radialGradient>
+<radialGradient id="tmB" cx="100%" cy="100%" r="80%"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.16"/><stop offset="1" stop-color="#070B16" stop-opacity="0"/></radialGradient>
+<linearGradient id="tmL" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1226"/><stop offset="1" stop-color="#070B16"/></linearGradient>
+<pattern id="tmG" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1F2D55" stroke-opacity="0.4" stroke-width="1"/></pattern><linearGradient id="spine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/></linearGradient></defs>
+<style>
+text{font-family:ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}
+.m{font-family:ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
+</style>
+<rect width="480" height="1199" rx="20" fill="url(#tmL)"/><rect width="480" height="1199" rx="20" fill="url(#tmG)"/><rect width="480" height="1199" rx="20" fill="url(#tmA)"/><rect width="480" height="1199" rx="20" fill="url(#tmB)"/>
+<rect x="1" y="1" width="478" height="1197" rx="19" fill="none" stroke="#1F2D55" stroke-width="1.5"/>
+<text class="m" x="28" y="38" font-size="12.5" letter-spacing="2" fill="#5B6C93">LINHA DO TEMPO · 2017 → 2026</text>
+<text x="28" y="60" font-size="14" fill="#93A3C6">Só marcos que dá para conferir: repositório criado ou</text><text x="28" y="78" font-size="14" fill="#93A3C6">data registrada no site.</text>
+<rect x="96" y="92" width="3" height="1087" rx="1.5" fill="url(#spine)" opacity="0.8"/><g>
+<text class="m" x="28" y="112" font-size="19" font-weight="800" fill="#E6ECF7">2017</text>
+<text class="m" x="28" y="130" font-size="12.5" letter-spacing="1" fill="#22D3EE">MAI</text>
+<circle cx="97.5" cy="106" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="106" r="3" fill="#22D3EE"/>
+<text x="118" y="110" font-size="18" font-weight="800" fill="#E6ECF7">Primeiro repositório no GitHub</text>
+<text x="118" y="134" font-size="14.5" fill="#93A3C6">A conta nasce em 04/05/2017 e o primeiro</text><text x="118" y="153" font-size="14.5" fill="#93A3C6">repositório vem quatro dias depois.</text>
+<text class="m" x="118" y="178" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: API do GitHub</text>
+</g><g>
+<text class="m" x="28" y="218" font-size="19" font-weight="800" fill="#E6ECF7">2019</text>
+<text class="m" x="28" y="236" font-size="12.5" letter-spacing="1" fill="#22D3EE">ABR</text>
+<circle cx="97.5" cy="212" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="212" r="3" fill="#22D3EE"/>
+<text x="118" y="216" font-size="18" font-weight="800" fill="#E6ECF7">Flutter e Dart entram na stack</text>
+<text x="118" y="240" font-size="14.5" fill="#93A3C6">O primeiro repositório em Dart e Flutter é</text><text x="118" y="259" font-size="14.5" fill="#93A3C6">de abril de 2019.</text>
+<text class="m" x="118" y="284" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: API do GitHub</text>
+</g><g>
+<text class="m" x="28" y="324" font-size="19" font-weight="800" fill="#E6ECF7">2020</text>
+<text class="m" x="28" y="342" font-size="12.5" letter-spacing="1" fill="#22D3EE">FEV</text>
+<circle cx="97.5" cy="318" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="318" r="3" fill="#22D3EE"/>
+<text x="118" y="322" font-size="18" font-weight="800" fill="#E6ECF7">Rocha Contabilidade</text>
+<text x="118" y="346" font-size="14.5" fill="#93A3C6">Criado o primeiro repositório do sistema</text><text x="118" y="365" font-size="14.5" fill="#93A3C6">da Rocha Contabilidade.</text>
+<text class="m" x="118" y="390" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: API do GitHub</text>
+</g><g>
+<text class="m" x="28" y="430" font-size="19" font-weight="800" fill="#E6ECF7">2021</text>
+<text class="m" x="28" y="448" font-size="12.5" letter-spacing="1" fill="#22D3EE">MAR</text>
+<circle cx="97.5" cy="424" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="424" r="3" fill="#22D3EE"/>
+<text x="118" y="428" font-size="18" font-weight="800" fill="#E6ECF7">media_social_share</text>
+<text x="118" y="452" font-size="14.5" fill="#93A3C6">Plugin Flutter de compartilhamento nativo</text><text x="118" y="471" font-size="14.5" fill="#93A3C6">nas redes, sob licença MIT.</text>
+<text class="m" x="118" y="496" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: API do GitHub</text>
+</g><g>
+<text class="m" x="28" y="536" font-size="19" font-weight="800" fill="#E6ECF7">2022</text>
+<text class="m" x="28" y="554" font-size="12.5" letter-spacing="1" fill="#22D3EE">ABR</text>
+<circle cx="97.5" cy="530" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="530" r="3" fill="#22D3EE"/>
+<text x="118" y="534" font-size="18" font-weight="800" fill="#E6ECF7">G R Tecnologia</text>
+<text x="118" y="558" font-size="14.5" fill="#93A3C6">Nascem os primeiros repositórios da</text><text x="118" y="577" font-size="14.5" fill="#93A3C6">empresa: apps e portfólio.</text>
+<text class="m" x="118" y="602" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: API do GitHub</text>
+</g><g>
+<text class="m" x="28" y="642" font-size="19" font-weight="800" fill="#E6ECF7">2025</text>
+<text class="m" x="28" y="660" font-size="12.5" letter-spacing="1" fill="#22D3EE">SET</text>
+<circle cx="97.5" cy="636" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="636" r="3" fill="#22D3EE"/>
+<text x="118" y="640" font-size="18" font-weight="800" fill="#E6ECF7">signalr_ultra</text>
+<text x="118" y="664" font-size="14.5" fill="#93A3C6">O cliente SignalR para Flutter e Dart é</text><text x="118" y="683" font-size="14.5" fill="#93A3C6">aberto ao público.</text>
+<text class="m" x="118" y="708" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: API do GitHub</text>
+</g><g>
+<text class="m" x="28" y="748" font-size="19" font-weight="800" fill="#E6ECF7">2026</text>
+<text class="m" x="28" y="766" font-size="12.5" letter-spacing="1" fill="#22D3EE">JUN</text>
+<circle cx="97.5" cy="742" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="742" r="3" fill="#22D3EE"/>
+<text x="118" y="746" font-size="18" font-weight="800" fill="#E6ECF7">Linha de produtos GROCHA</text>
+<text x="118" y="770" font-size="14.5" fill="#93A3C6">Cilada!, Tempestivo, RevaMed, GR Contábil</text><text x="118" y="789" font-size="14.5" fill="#93A3C6">e GR Poker ganham repositório ao longo do</text><text x="118" y="808" font-size="14.5" fill="#93A3C6">mês.</text>
+<text class="m" x="118" y="833" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: API do GitHub</text>
+</g><g>
+
+<text class="m" x="28" y="873" font-size="12.5" letter-spacing="1" fill="#22D3EE">16/10</text>
+<circle cx="97.5" cy="867" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="867" r="3" fill="#22D3EE"/>
+<text x="118" y="871" font-size="18" font-weight="800" fill="#E6ECF7">Cilada! e Cilada 3D nas lojas</text>
+<text x="118" y="895" font-size="14.5" fill="#93A3C6">Páginas da App Store e do Google Play</text><text x="118" y="914" font-size="14.5" fill="#93A3C6">conferidas com o nome dos jogos.</text>
+<text class="m" x="118" y="939" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: site da GROCHA Tech</text>
+</g><g>
+
+<text class="m" x="28" y="979" font-size="12.5" letter-spacing="1" fill="#22D3EE">18/10</text>
+<circle cx="97.5" cy="973" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="973" r="3" fill="#22D3EE"/>
+<text x="118" y="977" font-size="18" font-weight="800" fill="#E6ECF7">GR Builder, Tempestivo e</text><text x="118" y="999" font-size="18" font-weight="800" fill="#E6ECF7">Figurino no ar</text>
+<text x="118" y="1023" font-size="14.5" fill="#93A3C6">Os três passam a responder publicamente</text><text x="118" y="1042" font-size="14.5" fill="#93A3C6">nessa data.</text>
+<text class="m" x="118" y="1067" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: site da GROCHA Tech</text>
+</g><g>
+
+<text class="m" x="28" y="1107" font-size="12.5" letter-spacing="1" fill="#22D3EE">05/11</text>
+<circle cx="97.5" cy="1101" r="7.5" fill="#070B16" stroke="#22D3EE" stroke-width="2.2"/><circle cx="97.5" cy="1101" r="3" fill="#22D3EE"/>
+<text x="118" y="1105" font-size="18" font-weight="800" fill="#E6ECF7">Panteão no Google Play</text>
+<text x="118" y="1129" font-size="14.5" fill="#93A3C6">Página pública da loja conferida, com o</text><text x="118" y="1148" font-size="14.5" fill="#93A3C6">botão Instalar.</text>
+<text class="m" x="118" y="1173" font-size="11" letter-spacing="0.5" fill="#5B6C93">fonte: site da GROCHA Tech</text>
+</g>
+</svg>

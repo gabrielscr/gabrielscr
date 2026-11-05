@@ -1,0 +1,12 @@
+[
+  { "when": "2017", "month": "MAI", "title": "Primeiro repositório no GitHub", "text": "A conta nasce em 04/05/2017 e o primeiro repositório vem quatro dias depois.", "source": "API do GitHub" },
+  { "when": "2019", "month": "ABR", "title": "Flutter e Dart entram na stack", "text": "O primeiro repositório em Dart e Flutter é de abril de 2019.", "source": "API do GitHub" },
+  { "when": "2020", "month": "FEV", "title": "Rocha Contabilidade", "text": "Criado o primeiro repositório do sistema da Rocha Contabilidade.", "source": "API do GitHub" },
+  { "when": "2021", "month": "MAR", "title": "media_social_share", "text": "Plugin Flutter de compartilhamento nativo nas redes, sob licença MIT.", "source": "API do GitHub" },
+  { "when": "2022", "month": "ABR", "title": "G R Tecnologia", "text": "Nascem os primeiros repositórios da empresa: apps e portfólio.", "source": "API do GitHub" },
+  { "when": "2025", "month": "SET", "title": "signalr_ultra", "text": "O cliente SignalR para Flutter e Dart é aberto ao público.", "source": "API do GitHub" },
+  { "when": "2026", "month": "JUN", "title": "Linha de produtos GROCHA", "text": "Cilada!, Tempestivo, RevaMed, GR Contábil e GR Poker ganham repositório ao longo do mês.", "source": "API do GitHub" },
+  { "when": "2026", "month": "16/10", "title": "Cilada! e Cilada 3D nas lojas", "text": "Páginas da App Store e do Google Play conferidas com o nome dos jogos.", "source": "site da GROCHA Tech" },
+  { "when": "2026", "month": "18/10", "title": "GR Builder, Tempestivo e Figurino no ar", "text": "Os três passam a responder publicamente nessa data.", "source": "site da GROCHA Tech" },
+  { "when": "2026", "month": "05/11", "title": "Panteão no Google Play", "text": "Página pública da loja conferida, com o botão Instalar.", "source": "site da GROCHA Tech" }
+]
