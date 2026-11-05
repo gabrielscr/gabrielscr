@@ -8,13 +8,11 @@ import { hero } from './hero.mjs';
 import { skyline } from './skyline.mjs';
 import { card, CARD_W } from './cards.mjs';
 import { telemetryTile, sectionHeader, footerPanel, contactButton } from './panels.mjs';
-import { timeline } from './timeline.mjs';
 import { stackModules } from './stack.mjs';
 
 const data = readJson('data/projects.json');
 const state = readJson('data/state.json', {});
 const stats = readJson('data/stats.json');
-const tl = readJson('data/timeline.json');
 const evidence = readJson('data/stack-evidence.json', []);
 if (!stats?.contributions) throw new Error('data/stats.json sem calendário: rode scripts/fetch-data.mjs primeiro.');
 
@@ -45,7 +43,6 @@ const both = (base, fn) => { for (const t of THEMES) emit(`${base}-${t}.svg`, fn
 both('hero', (t) => hero(t, data.projects, tel));
 for (const t of tiles) both(`tile-${t.id}`, (th) => telemetryTile(th, t));
 both('skyline', (t) => skyline(t, stats.contributions));
-both('timeline', (t) => timeline(t, tl));
 const modules = stackModules('dark', data.projects, evidence);
 const moduleAlts = [];
 for (const m of modules) { both(`stack-${m.id}`, (t) => stackModules(t, data.projects, evidence).find((x) => x.name === m.name).svg); moduleAlts.push(m); }
@@ -66,8 +63,7 @@ for (const sec of data.sections) {
   const nUp = list.filter((p) => isUp(effective(p))).length;
   const nDev = list.filter((p) => effective(p) === 'development' || effective(p) === 'prelaunch').length;
   const parts = [`${list.length} ${list.length === 1 ? 'projeto' : 'projetos'}`];
-  if (sec.id === 'oss') parts.push('código aberto');
-  else if (sec.id === 'ia') parts.push('uso interno');
+  if (sec.id === 'ia') parts.push('uso interno');
   else {
     if (nUp) parts.push(`${nUp} no ar`);
     if (nDev) parts.push(`${nDev} em construção`);
@@ -125,12 +121,6 @@ ${sectionsMd.join('\n\n')}
 
 <p align="center">
 ${btnImgs}
-</p>
-
-<h2 align="center">Linha do tempo</h2>
-
-<p align="center">
-${picture('timeline', 'Linha do tempo de 2017 a 2026: ' + tl.map((i) => `${i.month}/${i.when}, ${i.title}`).join('; ') + '.', 'width="480"')}
 </p>
 
 <h2 align="center">Stack</h2>
