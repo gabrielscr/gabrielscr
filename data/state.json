@@ -45,11 +45,11 @@
   },
   "stopaposta": {
     "up": true,
-    "fails": 0
+    "fails": 1
   },
   "tiradez": {
     "up": true,
-    "fails": 0
+    "fails": 1
   },
   "uplevfit": {
     "up": true,
